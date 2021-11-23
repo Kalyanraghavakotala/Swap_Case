@@ -15,4 +15,6 @@ if __name__ == '__main__':
     result = swap_case(s)
     print(result)
     baboi thopuuuuuuuuuuuuuuuuuuuuuuuuu  maku kuda koncham nerpinchu raaaa........
+    dablufyEGWFLKJBEDLUFYWETFLJBDKCGCGCGCGCGajr^wrkdfqhAVUSCMWF
+    
  
